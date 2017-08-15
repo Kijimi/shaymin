@@ -1,0 +1,2 @@
+node shay.js
+pause
